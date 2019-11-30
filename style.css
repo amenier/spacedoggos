@@ -9,7 +9,7 @@ h1 {
   text-align: center;
 }
 p {
-  color: black;
+  color: orange;
   font-size: 16px;
   background-color: #246aae;
   text-align: center;
@@ -22,8 +22,7 @@ p {
 table, th, td {
   border: 2px solid white;
   text-align: center;
-  color: orange;
-  alignment: top;
+  color: black;
 }
 
 img {
@@ -35,4 +34,8 @@ img {
 h3 {
   color: white;
   font-size: 16px;
+}
+
+form {
+  alignment: top;
 }
